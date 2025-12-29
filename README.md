@@ -1,1 +1,2 @@
-# gamer
+# gamer 
+normal game 
